@@ -1,5 +1,5 @@
 # ChessEngine
-This is a Chess Engine made using PyGame. It uses the principles of object oriented programming to coordinate the logic and visuals of the game.
+This is a Chess Engine made using PyGame. It uses the principles of object oriented programming to coordinate the logic and visuals of the game of Chess.
 There are 3 main components to the program: 
   1. The Main Chess Driver File 
   2. The Chess Engine File
