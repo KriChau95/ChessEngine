@@ -1,4 +1,4 @@
-# ChessEngine
+<h1> ChessEngine <h1/>
 # This is a Chess Engine made using PyGame. It uses the principles of object oriented programming to coordinate the logic and visuals of the game.
 # There are 3 main components to the program: 1. The Main Chess Driver File 2. The ChessEngine and 3. The SmartMove Finder
 #
