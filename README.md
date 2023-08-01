@@ -1,4 +1,7 @@
 # ChessEngine
+
+![Chess_Still](https://github.com/KriChau95/ChessEngine/assets/140979138/58e5441a-3d3d-4369-a329-08f7d528e2b8)
+
 This is a Chess Engine made using PyGame. It uses the principles of object oriented programming to coordinate the logic and visuals of the game of Chess.
 There are 3 main components to the program: 
   1. The Main Chess Driver File 
